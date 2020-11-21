@@ -51,5 +51,4 @@ CONFIG_PACKAGE_kmod-fs-nfs=y
 CONFIG_PACKAGE_kmod-fuse=y
 CONFIG_PACKAGE_ntfs-3g=y
 CONFIG_PACKAGE_luci-app-hd-idle=y
-CONFIG_PACKAGE_kmod-usb-storage-uas=y
 CONFIG_PACKAGE_kmod-scsi-core=y
